@@ -4,4 +4,4 @@
 
 ### 历史汇总
 
-[前端面试题及答案汇总](https://github.com/baixue0111/webInterView/content/questions.md)
+[前端面试题及答案汇总](https://github.com/baixue0111/webInterView/blob/master/content/questions.md)
