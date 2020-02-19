@@ -17,3 +17,5 @@
 - js 面试题</br>
   - [1. 如何判断是否为数组？](https://github.com/baixue0111/webInterView/issues/13)</br>
   - [2. ES6模块与CommonJS模块有什么区别？](https://github.com/baixue0111/webInterView/issues/14)</br>
+  - [3. null与undefined的区别是什么](https://github.com/baixue0111/webInterView/issues/15)</br>
+  - [4. 谈谈你对原型链的理解](https://github.com/baixue0111/webInterView/issues/16)</br>
