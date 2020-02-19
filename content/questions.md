@@ -13,3 +13,7 @@
   - [6. 谈谈你对css-sprites的理解](https://github.com/baixue0111/webInterView/issues/10)</br>
   - [7. 谈谈你对媒体查询的理解](https://github.com/baixue0111/webInterView/issues/11)</br>
   - [8. 标准盒模型和怪异盒模型的区别](https://github.com/baixue0111/webInterView/issues/11)</br>
+
+- js 面试题</br>
+  - [1. 如何判断是否为数组？](https://github.com/baixue0111/webInterView/issues/12)</br>
+  - [2. ES6模块与CommonJS模块有什么区别？](https://github.com/baixue0111/webInterView/issues/13)</br>
