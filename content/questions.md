@@ -22,4 +22,4 @@
 
 - ES6 相关问题</br>
   - [1. var、let、const三者的区别](https://github.com/baixue0111/webInterView/issues/17)</br>
-  - [2. map、filter、reduce三者的区别](https://github.com/baixue0111/webInterView/issues/17)</br>
+  - [2. map、filter、reduce三者的区别](https://github.com/baixue0111/webInterView/issues/18)</br>
