@@ -4,7 +4,7 @@
   - [3. new操作符都做了什么？](https://github.com/baixue0111/webInterView/issues/3)</br>
   - [4. 前端如何进行SEO优化？](https://github.com/baixue0111/webInterView/issues/4)</br>
 
-- css面试题</br>
+- CSS面试题</br>
   - [1. css选择器的优先级](https://github.com/baixue0111/webInterView/issues/5)</br>
   - [2. link与@import的区别](https://github.com/baixue0111/webInterView/issues/6)</br>
   - [3. 块级元素水平居中的方法](https://github.com/baixue0111/webInterView/issues/7)</br>
@@ -14,8 +14,12 @@
   - [7. 谈谈你对媒体查询的理解](https://github.com/baixue0111/webInterView/issues/11)</br>
   - [8. 标准盒模型和怪异盒模型的区别](https://github.com/baixue0111/webInterView/issues/12)</br>
 
-- js 面试题</br>
+- Javascript 面试题</br>
   - [1. 如何判断是否为数组？](https://github.com/baixue0111/webInterView/issues/13)</br>
   - [2. ES6模块与CommonJS模块有什么区别？](https://github.com/baixue0111/webInterView/issues/14)</br>
   - [3. null与undefined的区别是什么](https://github.com/baixue0111/webInterView/issues/15)</br>
   - [4. 谈谈你对原型链的理解](https://github.com/baixue0111/webInterView/issues/16)</br>
+
+- ES6 相关问题</br>
+  - [1. var、let、const三者的区别](https://github.com/baixue0111/webInterView/issues/17)</br>
+  - [2. map、filter、reduce三者的区别](https://github.com/baixue0111/webInterView/issues/17)</br>
