@@ -22,6 +22,8 @@
   - [5. 如何实现深拷贝？](https://github.com/baixue0111/webInterView/issues/19)</br>
   - [6. 如何实现浅拷贝？](https://github.com/baixue0111/webInterView/issues/20)</br>
   - [7. sessionStorage、localStroage和cookie的区别？](https://github.com/baixue0111/webInterView/issues/21)</br>
+  - [8. 什么是闭包？](https://github.com/baixue0111/webInterView/issues/22)</br>
+  - [9. 什么是闭包？](https://github.com/baixue0111/webInterView/issues/22)</br>
 
 - ES6 相关问题</br>
   - [1. var、let、const三者的区别](https://github.com/baixue0111/webInterView/issues/17)</br>
