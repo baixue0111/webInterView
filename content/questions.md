@@ -20,6 +20,8 @@
   - [3. null与undefined的区别是什么](https://github.com/baixue0111/webInterView/issues/15)</br>
   - [4. 谈谈你对原型链的理解](https://github.com/baixue0111/webInterView/issues/16)</br>
   - [5. 如何实现深拷贝？](https://github.com/baixue0111/webInterView/issues/19)</br>
+  - [6. 如何实现浅拷贝？](https://github.com/baixue0111/webInterView/issues/20)</br>
+  - [7. sessionStorage、localStroage和cookie的区别？](https://github.com/baixue0111/webInterView/issues/21)</br>
 
 - ES6 相关问题</br>
   - [1. var、let、const三者的区别](https://github.com/baixue0111/webInterView/issues/17)</br>
